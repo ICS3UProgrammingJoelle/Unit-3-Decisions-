@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ICS3U Programming - Joelle\\FactorialJoelle\\FactorialJoelle\\FactorialJoelle.csproj": {}
+    "C:\\ICS3U Programming - Joelle\\Unit-3-Decisions-\\FactorialJoelle\\FactorialJoelle\\FactorialJoelle.csproj": {}
   },
   "projects": {
-    "C:\\ICS3U Programming - Joelle\\FactorialJoelle\\FactorialJoelle\\FactorialJoelle.csproj": {
+    "C:\\ICS3U Programming - Joelle\\Unit-3-Decisions-\\FactorialJoelle\\FactorialJoelle\\FactorialJoelle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ICS3U Programming - Joelle\\FactorialJoelle\\FactorialJoelle\\FactorialJoelle.csproj",
+        "projectUniqueName": "C:\\ICS3U Programming - Joelle\\Unit-3-Decisions-\\FactorialJoelle\\FactorialJoelle\\FactorialJoelle.csproj",
         "projectName": "FactorialJoelle",
-        "projectPath": "C:\\ICS3U Programming - Joelle\\FactorialJoelle\\FactorialJoelle\\FactorialJoelle.csproj",
+        "projectPath": "C:\\ICS3U Programming - Joelle\\Unit-3-Decisions-\\FactorialJoelle\\FactorialJoelle\\FactorialJoelle.csproj",
         "packagesPath": "C:\\Users\\Clementine\\.nuget\\packages\\",
-        "outputPath": "C:\\ICS3U Programming - Joelle\\FactorialJoelle\\FactorialJoelle\\obj\\",
+        "outputPath": "C:\\ICS3U Programming - Joelle\\Unit-3-Decisions-\\FactorialJoelle\\FactorialJoelle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Clementine\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
